@@ -1,6 +1,0 @@
-{
-  "name": "Orbital Duel",
-  "description": "A high-octane 2D space shooter with enemy waves, boss encounters, procedural Web Audio synth, tactical AI drone, and multi-stage sectors.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
